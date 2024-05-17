@@ -1,0 +1,6 @@
+pandas
+streamlit
+streamlit_folium
+folium
+pydeck
+streamlit_lottie
