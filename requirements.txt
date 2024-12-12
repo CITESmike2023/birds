@@ -4,3 +4,5 @@ streamlit_folium
 folium
 pydeck
 streamlit_lottie
+google-cloud-aiplatform
+google-cloud-logging
